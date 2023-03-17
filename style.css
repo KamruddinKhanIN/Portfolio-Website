@@ -721,6 +721,7 @@
 .nav-foot-menu div a{
     color: white;
     text-decoration: none;
+    transition: 0.4s;
 }
 
 .nav-foot-menu div a:hover{
